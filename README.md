@@ -1,2 +1,2 @@
 # marzo1
-Ejercicio de practica de GIT
+Ejercicio de practica de GIT como cescargar proyecto
